@@ -257,7 +257,7 @@ php artisan view:clear
 ## 📞 Support
 
 Si vous bloquez sur une étape, contactez **Falilou Diouf** :
-- 📱 77 523 00 72 / 77 642 02 44
+- 📱 77 523 00 72
 - 📧 faliloudiouf04@gmail.com
 
 Bonne installation ! 🚀

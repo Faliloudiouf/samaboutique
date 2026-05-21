@@ -27,7 +27,7 @@ class DatabaseSeeder extends Seeder
         $vendeur = User::create([
             'name' => 'Abdou Diop',
             'email' => 'vendeur@samaboutique.sn',
-            'telephone' => '77 642 02 44',
+            'telephone' => '77 000 00 00',
             'password' => Hash::make('password'),
             'role' => 'vendeur', 'actif' => true,
         ]);
