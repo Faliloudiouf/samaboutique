@@ -8,8 +8,9 @@ Application Laravel 12 complète pour gérer une boutique de quartier sénégala
 
 ## 📚 Documentation
 
-- **[INSTALLATION.md](INSTALLATION.md)** — Comment installer et lancer le projet sur votre machine (étape par étape, pour débutants)
-- **[RAPPORT.md](RAPPORT.md)** — Rapport complet de ce qui a été fait, architecture, fonctionnalités, choix techniques
+- **[INSTALLATION.md](INSTALLATION.md)** — Installer et lancer le projet sur votre machine (étape par étape)
+- **[DEPLOY.md](DEPLOY.md)** — Déployer en ligne gratuitement sur Railway (10 min)
+- **[RAPPORT.md](RAPPORT.md)** — Rapport complet : architecture, fonctionnalités, choix techniques
 
 ---
 
